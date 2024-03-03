@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1709441433 "/home/tioner/Documentos/maestria/2/inv/protocolo_investigacion.tex" "protocolo_investigacion.pdf" "protocolo_investigacion" 1709441434 0
+["pdflatex"] 1709442125 "/home/tioner/Documentos/maestria/2/inv/protocolo_investigacion.tex" "protocolo_investigacion.pdf" "protocolo_investigacion" 1709442126 0
   "/etc/texmf/web2c/texmf.cnf" 1709348248 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/tioner/Documentos/maestria/2/inv/protocolo_investigacion.tex" 1709441432 20408 d279d5dbb2a587d075f98081438f5986 ""
+  "/home/tioner/Documentos/maestria/2/inv/protocolo_investigacion.tex" 1709442112 20408 d279d5dbb2a587d075f98081438f5986 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -138,9 +138,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1709348831 4643645 d2d1d8b8ba87ed005f4aaf1ce646a79e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1709348888 7906346 6f351a9c8452a55f7b8cf85c703670b8 ""
   "logo_empresa.jpeg" 1709438272 198127 cc126a353ebc75d3090481024dfe5301 ""
-  "protocolo_investigacion.aux" 1709441434 4301 43be9bf2cef9b8cfd369e594cb409976 "pdflatex"
-  "protocolo_investigacion.out" 1709441434 5487 e762468d0c10fb3c0a7a677dea39a659 "pdflatex"
-  "protocolo_investigacion.tex" 1709441432 20408 d279d5dbb2a587d075f98081438f5986 ""
+  "protocolo_investigacion.aux" 1709442126 4301 43be9bf2cef9b8cfd369e594cb409976 "pdflatex"
+  "protocolo_investigacion.out" 1709442126 5487 e762468d0c10fb3c0a7a677dea39a659 "pdflatex"
+  "protocolo_investigacion.tex" 1709442112 20408 d279d5dbb2a587d075f98081438f5986 ""
   (generated)
   "protocolo_investigacion.aux"
   "protocolo_investigacion.log"
